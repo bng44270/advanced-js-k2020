@@ -1,8 +1,10 @@
 # Enhancing Business Logic with Advanced Javascript Functionality
 
-Of the functionality available to customize the ServiceNow the most powerful one is without question the ability to write Javascript rules, policies, actions, and includes.  To compliment the robust libraries provided by ServiceNow there are many pieces of standard Javascript that can bring your scripting game to the next level.
+## Goal
+This session seeks to expose some of the built-in functionality of the Javascript language that can be used to enhance the functionality of ServiceNow scripts to compliment the robust set of libraries provided by ServiceNow.
 
-* String Processing
+### String Processing
+
   * Functions:  split, includes, toString, parseInt, parseFloat, match, replace
   * Regular Expression Syntax
 * Advanced Array Processing
